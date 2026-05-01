@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_PortScanner", "001_PortScanner\001_PortScanner.csproj", "{2D749B96-EF66-4A3D-BEEA-69A15746D91E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_ChatServer", "002_ChatServer\002_ChatServer.csproj", "{3E258168-0CD4-4604-A3EA-52B3C3ED667E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_ChatClient", "003_ChatClient\003_ChatClient.csproj", "{4196E0E7-84BD-4D97-8D28-F61FBABB21B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2D749B96-EF66-4A3D-BEEA-69A15746D91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D749B96-EF66-4A3D-BEEA-69A15746D91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D749B96-EF66-4A3D-BEEA-69A15746D91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E258168-0CD4-4604-A3EA-52B3C3ED667E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E258168-0CD4-4604-A3EA-52B3C3ED667E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E258168-0CD4-4604-A3EA-52B3C3ED667E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E258168-0CD4-4604-A3EA-52B3C3ED667E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4196E0E7-84BD-4D97-8D28-F61FBABB21B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4196E0E7-84BD-4D97-8D28-F61FBABB21B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4196E0E7-84BD-4D97-8D28-F61FBABB21B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4196E0E7-84BD-4D97-8D28-F61FBABB21B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
