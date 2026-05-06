@@ -57,7 +57,7 @@ namespace _003_ChatClient
             // 4. Receive message
             Task.Run(() => RecieveData(sendSocket));
 
-            button2.Enabled = false;
+            button2.Enabled = false;     
         }
     }
 }
