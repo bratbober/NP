@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_SMTPExample", "007_SMTP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_SMTPTask", "008_SMTPTask\008_SMTPTask.csproj", "{CDA1FB9B-BBF0-4933-B189-D50E538FE14A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_HTTP", "009_HTTP\009_HTTP.csproj", "{161EE4CD-134C-4A40-A7A6-E409C6C0B82D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_WeatherTask", "010_WeatherTask\010_WeatherTask.csproj", "{E2D35CFE-B0DF-477A-940C-5A5C5E3E7FD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{CDA1FB9B-BBF0-4933-B189-D50E538FE14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDA1FB9B-BBF0-4933-B189-D50E538FE14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDA1FB9B-BBF0-4933-B189-D50E538FE14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161EE4CD-134C-4A40-A7A6-E409C6C0B82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161EE4CD-134C-4A40-A7A6-E409C6C0B82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161EE4CD-134C-4A40-A7A6-E409C6C0B82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161EE4CD-134C-4A40-A7A6-E409C6C0B82D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D35CFE-B0DF-477A-940C-5A5C5E3E7FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D35CFE-B0DF-477A-940C-5A5C5E3E7FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D35CFE-B0DF-477A-940C-5A5C5E3E7FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D35CFE-B0DF-477A-940C-5A5C5E3E7FD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
